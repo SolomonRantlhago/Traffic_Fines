@@ -1,0 +1,10 @@
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\bin\Debug\Traffic_fines.exe.config
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\bin\Debug\Traffic_fines.exe
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\bin\Debug\Traffic_fines.pdb
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.CfrmTraffic_Fines.resources
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.Properties.Resources.resources
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.csproj.GenerateResource.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.csproj.CoreCompileInputs.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.exe
+C:\Users\2017496114\Desktop\My_Portfolio\Traffic_fines\Traffic_fines\obj\Debug\Traffic_fines.pdb
